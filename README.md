@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Vision-Based Collision Avoidance using Deep reinforcement learning
+- Epecially interested in Inverse Reinforcement Learning
+- Hope for potential collaboration and feel free to email me
 
 <!--
 **mw9385/mw9385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
