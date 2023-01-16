@@ -3,6 +3,7 @@
 - Epecially interested in Inverse Reinforcement Learning
 - Hope for potential collaboration and feel free to email me
 
+Email: red9395@unist.ac.kr
 <!--
 **mw9385/mw9385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
